@@ -1,1 +1,1 @@
-# Docker image to run test in Bitbucket pipelines
+# Docker image for nodejs apps to run jest tests in Bitbucket pipelines
