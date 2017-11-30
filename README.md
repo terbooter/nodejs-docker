@@ -1,0 +1,1 @@
+# Docker image to run test in Bitbucket pipelines
