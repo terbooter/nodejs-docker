@@ -6,3 +6,4 @@ RUN apt-get install -y software-properties-common python-software-properties cur
 RUN curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 RUN apt-get install -y nodejs git git-core gcc make build-essential
 RUN npm install -g jest typescript@2.6.2
+RUN npm i -g  https://github.com/terbooter/bitbucket-pipelines-helper.git
